@@ -1,7 +1,9 @@
-Practice_simpleGame
+Practice projects
 ===================
 
-Practice Object - SimpleGame. Use swift.
+Practice Objects - Use swift.
+
+This contains my practice projcets.
 
 Reference 
 ==================
